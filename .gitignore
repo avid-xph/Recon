@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.idea/
+
+cache/
+checkpoint/
+logs/
+eval-res/
+
+Dataset/
+*.pdf
+*.zip
+*.exe
+*.pptx
+*.csv
+github-recovery-codes.txt
+attack_interface.py
+attack_interface (1).py
+vista_chat_*.json
